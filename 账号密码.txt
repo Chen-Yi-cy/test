@@ -1,0 +1,61 @@
+https://39.99.158.0/redmine/projects/dlp-custom/issues/3217/copy
+-----------------
+共享服务器
+192.168.10.197
+账号：admin
+密码：cirrus818
+-----------------
+HTTP上传
+http://mng.yooknet.com/test.php
+--------------------
+
+8楼域环境 
+192.168.10.229 
+用户名 administrator@cirrus.com 
+密码Alladmin01 
+同步节点 dc=cirrus,dc=com 
+---------------------
+
+192.168.10.134
+服务器
+root
+cirrus8215
+网站：
+alladmin
+Alladmin02
+--------------------
+http://192.168.10.67:9080/solr/index.html
+Solr账号：solradmin
+Solr密码：U12chSL8VPiM1
+
+
+
+数据库密码：mysql -uroot -pSaX79v4kxhh10
+
+solr访问地址：http://192.168.10.164:9080/solr/index.html
+
+
+check密码：admin     CGCathy21
+
+s3地址和密码https://192.168.10.17:9000/minio/login
+
+
+看solr密码,最后一行
+/var/lib/tomcat8/conf/tomcat-users.xml
+
+
+s3地址和密码https://192.168.10.116:9000/minio/login
+
+admin     xwkyi2381hots
+
+admin     xwkyi2381hots
+shou@cirrus8215.cn
+192.168.10.31
+123456
+
+test1@cirrus818.com
+192.168.10.166
+
+
+send@cirrus818.com
+192.168.10.166
